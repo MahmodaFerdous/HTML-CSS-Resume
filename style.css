@@ -1,1 +1,8 @@
 /* Your CSS styles go here */
+
+body {background-color: black;}
+h1   {color: red;}
+p    {color: orange;}
+table, th, td {
+   border: 1px solid orange; color:CB8027;
+}
